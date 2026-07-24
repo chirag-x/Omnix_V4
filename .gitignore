@@ -3,11 +3,16 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py[cod]
 
 # Virtual Environment
 .venv/
 venv/
 env/
+
+# Python caches
+.pytest_cache/
+.mypy_cache/
 
 # Environment Variables
 .env
