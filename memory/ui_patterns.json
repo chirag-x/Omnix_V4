@@ -375,4478 +375,6 @@
       {
         "type": "text",
         "text": "target_resolver py",
-        "x": 2121,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "def main()",
-        "x": 2488,
-        "y": 271,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "( Library",
-        "x": 63,
-        "y": 297,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IntentClassifier",
-        "x": 736,
-        "y": 290,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "task_planner py",
-        "x": 2112,
-        "y": 295,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ConversationManager",
-        "x": 746,
-        "y": 315,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logs",
-        "x": 2062,
-        "y": 322,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger",
-        "x": 2507,
-        "y": 320,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger:",
-        "x": 2623,
-        "y": 319,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Projects",
-        "x": 84,
-        "y": 345,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory",
-        "x": 2076,
-        "y": 351,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "10",
-        "x": 2398,
-        "y": 342,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger.info(\"Starting Omnix V4.. =",
-        "x": 2633,
-        "y": 343,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "because you re loading more Al objects than necessary:",
-        "x": 888,
-        "y": 373,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "~pycache",
-        "x": 2097,
-        "y": 377,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "11",
-        "x": 2398,
-        "y": 366,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 Apps",
-        "x": 58,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "12",
-        "x": 2397,
-        "y": 387,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Warnings.filterwarningse",
-        "x": 2590,
-        "y": 389,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "'ignore'",
-        "x": 2749,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_memory py",
-        "x": 2131,
-        "y": 405,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "13",
-        "x": 2397,
-        "y": 411,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2497,
-        "y": 414,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "More",
-        "x": 73,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "For now;",
-        "x": 681,
-        "y": 426,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "apply the two fixes above and run:",
-        "x": 876,
-        "y": 429,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_store json",
-        "x": 2125,
-        "y": 432,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "14",
-        "x": 2397,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers.logging set_verbosity_errore",
-        "x": 2710,
-        "y": 436,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory_manager py",
-        "x": 2130,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "15",
-        "x": 2397,
-        "y": 459,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "except Exception:",
-        "x": 2560,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pinned",
-        "x": 49,
-        "y": 492,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Bash",
-        "x": 721,
-        "y": 495,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_pattern_memory py",
-        "x": 2136,
-        "y": 487,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "16",
-        "x": 2398,
-        "y": 483,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pass",
-        "x": 2538,
-        "y": 486,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_patterns json",
-        "x": 2112,
-        "y": 516,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "17",
-        "x": 2398,
-        "y": 507,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2499,
-        "y": 510,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix",
-        "x": 81,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 694,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main",
-        "x": 744,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills",
-        "x": 2062,
-        "y": 540,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "18",
-        "x": 2398,
-        "y": 531,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "19",
-        "x": 2398,
-        "y": 555,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Gtate",
-        "x": 2061,
-        "y": 568,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V3 vs V4",
-        "x": 115,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Then",
-        "x": 666,
-        "y": 589,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20",
-        "x": 2398,
-        "y": 579,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Context Manager",
-        "x": 2608,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "say:",
-        "x": 709,
-        "y": 594,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "system",
-        "x": 2070,
-        "y": 597,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "21",
-        "x": 2398,
-        "y": 603,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pin Memory Warning",
-        "x": 135,
-        "y": 628,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "temp",
-        "x": 2064,
-        "y": 625,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "22",
-        "x": 2398,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from context.context_manager import ContextManager",
-        "x": 2758,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Hey Omnix",
-        "x": 706,
-        "y": 655,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "search",
-        "x": 778,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "for",
-        "x": 825,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 871,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tutorials",
-        "x": 940,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chrome",
-        "x": 1039,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tests",
-        "x": 2062,
-        "y": 652,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "23",
-        "x": 2398,
-        "y": 651,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix Vision and Structure",
-        "x": 160,
-        "y": 672,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PROBLEMS",
-        "x": 2415,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTPUT",
-        "x": 2505,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DEBUG",
-        "x": 2580,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "CONSOLE",
-        "x": 2637,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TERMINAL",
-        "x": 2727,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PORTS",
-        "x": 2811,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python",
-        "x": 3573,
-        "y": 685,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Tv",
-        "x": 3625,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0 0",
-        "x": 3684,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "{3",
-        "x": 3780,
-        "y": 681,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DSA Questtions",
-        "x": 115,
-        "y": 715,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "and tell me whether the",
-        "x": 748,
-        "y": 711,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pin_memory",
-        "x": 912,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "spam disappears or becomes much smaller.",
-        "x": 1165,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "users",
-        "x": 2064,
-        "y": 706,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PS E: |Coding lomnix_V4>",
-        "x": 2479,
-        "y": 717,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "e: /coding/omnix_V4/ .venv/Scripts/python.exe e:/coding/omnix_VA/main-py",
-        "x": 2920,
-        "y": 717,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "utils",
-        "x": 2061,
-        "y": 733,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "[Omnix] Sleeping:=",
-        "x": 2458,
-        "y": 743,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Say",
-        "x": 2575,
-        "y": 744,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Hey Omnix",
-        "x": 2647,
-        "y": 744,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "to wake me up _",
-        "x": 2764,
-        "y": 744,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "6 G q",
-        "x": 697,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3 \u20ac",
-        "x": 796,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@ Sources",
-        "x": 933,
-        "y": 756,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision",
-        "x": 2064,
-        "y": 759,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:04.748770+0530",
-        "x": 2521,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Voice system started",
-        "x": 2841,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Recents",
-        "x": 52,
-        "y": 783,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "voice",
-        "x": 2064,
-        "y": 789,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:09.944704+0530",
-        "x": 2521,
-        "y": 786,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 786,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Vision detected",
-        "x": 2818,
-        "y": 786,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "objects ad 212 text elements",
-        "x": 3043,
-        "y": 787,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20t00:56:09.944704+0530",
-        "x": 2521,
-        "y": 808,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 808,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen",
-        "x": 2778,
-        "y": 808,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Intelligence extracted 212 UI elements",
-        "x": 2983,
-        "y": 808,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "env",
-        "x": 2062,
-        "y": 817,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 108,
-        "y": 826,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Do you like this personality?",
-        "x": 1048,
-        "y": 835,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Q",
-        "x": 1239,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:09.997995+0530",
-        "x": 2521,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Stored new UI pattern for main py",
-        "x": 2899,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix_V4",
-        "x": 3109,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Visual Studio Code",
-        "x": 3255,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "launcher py",
-        "x": 2085,
-        "y": 844,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Portfolio Improvement Tips",
-        "x": 127,
-        "y": 871,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py",
-        "x": 2074,
-        "y": 873,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0: 192x640",
-        "x": 2427,
-        "y": 874,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tv, 21.4ms",
-        "x": 2544,
-        "y": 876,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills zip",
-        "x": 2074,
-        "y": 900,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Speed: 16.1ms preprocess,",
-        "x": 2490,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "21.4ms inference_",
-        "x": 2688,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "1.lms postprocess per image at shape (1, 3, 192, 640)",
-        "x": 3015,
-        "y": 898,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Resume Creation Assistance",
-        "x": 130,
-        "y": 915,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20t00:56:19.276971+0530",
-        "x": 2521,
-        "y": 919,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 919,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Vision detected",
-        "x": 2818,
-        "y": 918,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "objects and 216 text elements",
-        "x": 3042,
-        "y": 919,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask anything",
-        "x": 763,
-        "y": 946,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:19.276971+0530",
-        "x": 2521,
-        "y": 942,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen",
-        "x": 2778,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Intelligence",
-        "x": 2867,
-        "y": 941,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "extracted 216 UI elements",
-        "x": 3042,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTLINE",
-        "x": 2035,
-        "y": 952,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chirag Sharma",
-        "x": 116,
-        "y": 972,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:19.333029+0530",
-        "x": 2521,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Stored new UI pattern for main py",
-        "x": 2899,
-        "y": 964,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix_V4",
-        "x": 3109,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Visual Studio Code",
-        "x": 3255,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TIMELINE",
-        "x": 2037,
-        "y": 981,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 70,
-        "y": 993,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT can make mistakes. Check important info:",
-        "x": 1122,
-        "y": 997,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 main*+",
-        "x": 2007,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00 00",
-        "x": 2128,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ln 13, Col 9",
-        "x": 3076,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Spaces: 4",
-        "x": 3165,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "UTF-8",
-        "x": 3235,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "CRLF",
-        "x": 3291,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "{} Python",
-        "x": 3366,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8",
-        "x": 3430,
-        "y": 1006,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3.11.9 (.venv)",
-        "x": 3504,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python 3.14 (64-bit)",
-        "x": 3633,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go Live",
-        "x": 3768,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 1848,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ENG",
-        "x": 3535,
-        "y": 1042,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 3768,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@",
-        "x": 1887,
-        "y": 1051,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "c)) CW 78%",
-        "x": 3645,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 3807,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 1828,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IN",
-        "x": 3535,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 3748,
-        "y": 1060,
-        "source": "ocr"
-      }
-    ],
-    [
-      {
-        "type": "text",
-        "text": "(146) Jaat Intro (Official Vide",
-        "x": 183,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 462,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask Gemini",
-        "x": 1671,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "File",
-        "x": 1987,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Edit",
-        "x": 2034,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Selection",
-        "x": 2098,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "View",
-        "x": 2167,
-        "y": 22,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 2217,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Run",
-        "x": 2260,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4",
-        "x": 2868,
-        "y": 21,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "08 0 O 0",
-        "x": 3600,
-        "y": 19,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "EXPLORER",
-        "x": 2038,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py M",
-        "x": 2434,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "context_manager pY",
-        "x": 2619,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pattern",
-        "x": 2828,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory py M",
-        "x": 2914,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "conversation",
-        "x": 3084,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "manager.py M",
-        "x": 3190,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision_pipeline py",
-        "x": 3381,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "SCrpen",
-        "x": 3558,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intellige",
-        "x": 3616,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "D ~",
-        "x": 3675,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8 @",
-        "x": 3765,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chatgptcom/c/6a358f8b-2dcc-83ee-a1f1-35ff795abced",
-        "x": 459,
-        "y": 82,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 1633,
-        "y": 79,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "7",
-        "x": 1672,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0 |",
-        "x": 1753,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OMNIX_V4",
-        "x": 2041,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main-py",
-        "x": 2431,
-        "y": 104,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Qmain",
-        "x": 2511,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Core",
-        "x": 2059,
-        "y": 130,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from utils",
-        "x": 2488,
-        "y": 126,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger import",
-        "x": 2609,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger",
-        "x": 2740,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT",
-        "x": 415,
-        "y": 142,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Share",
-        "x": 1809,
-        "y": 144,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 153,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "time",
-        "x": 2529,
-        "y": 150,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "goal_executorpy",
-        "x": 2116,
-        "y": 159,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Atter we KIII tne pin_memory spam,",
-        "x": 798,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "want tO audit:",
-        "x": 1030,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intent_",
-        "x": 2079,
-        "y": 184,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "classifier py",
-        "x": 2146,
-        "y": 183,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 177,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers",
-        "x": 2566,
-        "y": 174,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import warnings",
-        "x": 2512,
-        "y": 198,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "New chat",
-        "x": 90,
-        "y": 210,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "omnix_engine py",
-        "x": 2116,
-        "y": 213,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "BrainManager",
-        "x": 716,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "retry",
-        "x": 2071,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "managerpy",
-        "x": 2137,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Search chats",
-        "x": 102,
-        "y": 253,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TaskPlanner",
-        "x": 715,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "target_resolver py",
-        "x": 2121,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "def main()",
-        "x": 2488,
-        "y": 271,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "( Library",
-        "x": 63,
-        "y": 297,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IntentClassifier",
-        "x": 736,
-        "y": 290,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "task_planner py",
-        "x": 2112,
-        "y": 295,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ConversationManager",
-        "x": 746,
-        "y": 315,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logs",
-        "x": 2062,
-        "y": 322,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger",
-        "x": 2507,
-        "y": 320,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger:",
-        "x": 2623,
-        "y": 319,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Projects",
-        "x": 84,
-        "y": 345,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory",
-        "x": 2076,
-        "y": 351,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "10",
-        "x": 2398,
-        "y": 342,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger.info(\"Starting Omnix V4.. =",
-        "x": 2633,
-        "y": 343,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "because you re loading more Al objects than necessary:",
-        "x": 888,
-        "y": 373,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "~pycache",
-        "x": 2097,
-        "y": 377,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "11",
-        "x": 2398,
-        "y": 366,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 Apps",
-        "x": 58,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "12",
-        "x": 2397,
-        "y": 387,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Warnings.filterwarningse",
-        "x": 2590,
-        "y": 389,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "'ignore'",
-        "x": 2749,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_memory py",
-        "x": 2131,
-        "y": 405,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "13",
-        "x": 2397,
-        "y": 411,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2497,
-        "y": 414,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "More",
-        "x": 73,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "For now;",
-        "x": 681,
-        "y": 426,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "apply the two fixes above and run:",
-        "x": 876,
-        "y": 429,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_store json",
-        "x": 2125,
-        "y": 432,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "14",
-        "x": 2397,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers.logging set_verbosity_errore",
-        "x": 2710,
-        "y": 436,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory_manager py",
-        "x": 2130,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "15",
-        "x": 2397,
-        "y": 459,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "except Exception:",
-        "x": 2560,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pinned",
-        "x": 49,
-        "y": 492,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Bash",
-        "x": 721,
-        "y": 495,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_pattern_memory py",
-        "x": 2136,
-        "y": 487,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "16",
-        "x": 2398,
-        "y": 483,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pass",
-        "x": 2538,
-        "y": 486,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_patterns json",
-        "x": 2112,
-        "y": 516,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "17",
-        "x": 2398,
-        "y": 507,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2499,
-        "y": 510,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix",
-        "x": 81,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 694,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main",
-        "x": 744,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills",
-        "x": 2062,
-        "y": 540,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "18",
-        "x": 2398,
-        "y": 531,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "19",
-        "x": 2398,
-        "y": 555,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Gtate",
-        "x": 2061,
-        "y": 568,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V3 vs V4",
-        "x": 115,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Then",
-        "x": 666,
-        "y": 589,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20",
-        "x": 2398,
-        "y": 579,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Context Manager",
-        "x": 2608,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "say:",
-        "x": 709,
-        "y": 594,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "system",
-        "x": 2070,
-        "y": 597,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "21",
-        "x": 2398,
-        "y": 603,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pin Memory Warning",
-        "x": 135,
-        "y": 628,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "temp",
-        "x": 2064,
-        "y": 625,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "22",
-        "x": 2398,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from context.context_manager import ContextManager",
-        "x": 2758,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Hey Omnix",
-        "x": 706,
-        "y": 655,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "search",
-        "x": 778,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "for",
-        "x": 825,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 871,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tutorials",
-        "x": 940,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chrome",
-        "x": 1039,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tests",
-        "x": 2062,
-        "y": 652,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "23",
-        "x": 2398,
-        "y": 651,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix Vision and Structure",
-        "x": 160,
-        "y": 672,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PROBLEMS",
-        "x": 2415,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTPUT",
-        "x": 2505,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DEBUG CONSOLE",
-        "x": 2614,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TERMINAL",
-        "x": 2727,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PORTS",
-        "x": 2811,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python",
-        "x": 3573,
-        "y": 685,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "+~ @ @",
-        "x": 3661,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "{3",
-        "x": 3783,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DSA Questtions",
-        "x": 115,
-        "y": 715,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "and tell me whether the",
-        "x": 748,
-        "y": 711,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pin_memory",
-        "x": 912,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "spam disappears or becomes much smaller.",
-        "x": 1165,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "users",
-        "x": 2064,
-        "y": 706,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PS",
-        "x": 2391,
-        "y": 718,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "E: |coding lomnix_VA>",
-        "x": 2492,
-        "y": 717,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "e: /Coding/Omnix_V4/ . venv/Scripts/python.exe e:/Coding/Omnix_VA/main-py",
-        "x": 2922,
-        "y": 718,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "utils",
-        "x": 2061,
-        "y": 733,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:09.944704+0530",
-        "x": 2521,
-        "y": 744,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 742,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen",
-        "x": 2778,
-        "y": 744,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Intelligence extracted 212 UI elements",
-        "x": 2983,
-        "y": 743,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "6 G q",
-        "x": 697,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3 \u20ac",
-        "x": 796,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@ Sources",
-        "x": 933,
-        "y": 756,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision",
-        "x": 2064,
-        "y": 759,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:09.997995+0530",
-        "x": 2521,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Stored new",
-        "x": 2793,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "UI pattern for main.py",
-        "x": 2949,
-        "y": 766,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "V4",
-        "x": 3136,
-        "y": 763,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Visual Studio Code",
-        "x": 3255,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Recents",
-        "x": 52,
-        "y": 783,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "voice",
-        "x": 2064,
-        "y": 789,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "192x640",
-        "x": 2440,
-        "y": 808,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tv, 21.4ms",
-        "x": 2544,
-        "y": 810,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "env",
-        "x": 2062,
-        "y": 817,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 108,
-        "y": 826,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Do you like this personality?",
-        "x": 1048,
-        "y": 835,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Q",
-        "x": 1239,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Speed: 16.1ms preprocess, 21.4ms inference,",
-        "x": 2571,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "1.lms",
-        "x": 2797,
-        "y": 829,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "postprocess per",
-        "x": 2898,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "image at shape (1, 3, 192, 640)",
-        "x": 3113,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "launcher py",
-        "x": 2085,
-        "y": 844,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:19.276971+0530",
-        "x": 2521,
-        "y": 853,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 853,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Vision detected",
-        "x": 2818,
-        "y": 852,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "objects ad 216 text elements",
-        "x": 3042,
-        "y": 853,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Portfolio Improvement Tips",
-        "x": 127,
-        "y": 871,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py",
-        "x": 2074,
-        "y": 873,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:19.276971+0530",
-        "x": 2521,
-        "y": 876,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 874,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen",
-        "x": 2778,
-        "y": 876,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Intelligence extracted 216 UI elements",
-        "x": 2983,
-        "y": 875,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills zip",
-        "x": 2074,
-        "y": 900,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:19.333029+0530",
-        "x": 2521,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Stored new UI pattern for main py",
-        "x": 2899,
-        "y": 898,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix_V4",
-        "x": 3109,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Visual Studio Code",
-        "x": 3255,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Resume Creation Assistance",
-        "x": 130,
-        "y": 915,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask anything",
-        "x": 763,
-        "y": 946,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "192x640",
-        "x": 2440,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tv, 20.8m5",
-        "x": 2544,
-        "y": 942,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTLINE",
-        "x": 2035,
-        "y": 952,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chirag Sharma",
-        "x": 116,
-        "y": 972,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Speed: 23.9mS preprocess, 20.8mS inference, 1.7ms postprocess per image at shape (1, 3, 192, 640)",
-        "x": 2817,
-        "y": 964,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TIMELINE",
-        "x": 2037,
-        "y": 981,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 70,
-        "y": 993,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT can make mistakes. Check important info:",
-        "x": 1122,
-        "y": 997,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 main*+",
-        "x": 2007,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00 00",
-        "x": 2128,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ln 13, Col 9",
-        "x": 3076,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Spaces: 4",
-        "x": 3165,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "UTF-8",
-        "x": 3235,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "CRLF",
-        "x": 3291,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "{} Python",
-        "x": 3366,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8",
-        "x": 3430,
-        "y": 1006,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3.11.9 (.venv)",
-        "x": 3504,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python 3.14 (64-bit)",
-        "x": 3633,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go Live",
-        "x": 3768,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 1848,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ENG",
-        "x": 3535,
-        "y": 1042,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 3768,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@",
-        "x": 1887,
-        "y": 1051,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "c)) CW 78%",
-        "x": 3645,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 3807,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 1828,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IN",
-        "x": 3535,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 3748,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix",
-        "x": 3097,
-        "y": 765,
-        "source": "ocr"
-      }
-    ],
-    [
-      {
-        "type": "text",
-        "text": "(146) Jaat Intro (Official Vide",
-        "x": 183,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 462,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask Gemini",
-        "x": 1671,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "File",
-        "x": 1987,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Edit",
-        "x": 2034,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Selection",
-        "x": 2098,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "View",
-        "x": 2167,
-        "y": 22,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 2217,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Run",
-        "x": 2260,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4",
-        "x": 2868,
-        "y": 21,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "08 0 O 0",
-        "x": 3600,
-        "y": 19,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "EXPLORER",
-        "x": 2038,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py M",
-        "x": 2434,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "context_manager pY",
-        "x": 2619,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pattern",
-        "x": 2828,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory py M",
-        "x": 2914,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "conversation",
-        "x": 3084,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "manager.py M",
-        "x": 3190,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision_pipeline py",
-        "x": 3381,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "SCrpen",
-        "x": 3558,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intellige",
-        "x": 3616,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "D ~",
-        "x": 3675,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8 @",
-        "x": 3765,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chatgptcom/c/6a358f8b-2dcc-83ee-a1f1-35ff795abced",
-        "x": 459,
-        "y": 82,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 1633,
-        "y": 79,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "7",
-        "x": 1672,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0 |",
-        "x": 1753,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OMNIX_V4",
-        "x": 2041,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main-py",
-        "x": 2431,
-        "y": 104,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Qmain",
-        "x": 2511,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Core",
-        "x": 2059,
-        "y": 130,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from utils",
-        "x": 2488,
-        "y": 126,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger import",
-        "x": 2609,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger",
-        "x": 2740,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT",
-        "x": 415,
-        "y": 142,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Share",
-        "x": 1809,
-        "y": 144,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 153,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "time",
-        "x": 2529,
-        "y": 150,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "goal_executorpy",
-        "x": 2116,
-        "y": 159,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Atter we KIII tne pin_memory spam,",
-        "x": 798,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "want tO audit:",
-        "x": 1030,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intent_",
-        "x": 2079,
-        "y": 184,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "classifier py",
-        "x": 2146,
-        "y": 183,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 177,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers",
-        "x": 2566,
-        "y": 174,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import warnings",
-        "x": 2512,
-        "y": 198,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "New chat",
-        "x": 90,
-        "y": 210,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "omnix_engine py",
-        "x": 2116,
-        "y": 213,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "BrainManager",
-        "x": 716,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "retry",
-        "x": 2071,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "managerpy",
-        "x": 2137,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Search chats",
-        "x": 102,
-        "y": 253,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TaskPlanner",
-        "x": 715,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "target_resolver py",
-        "x": 2121,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "def main()",
-        "x": 2488,
-        "y": 271,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "( Library",
-        "x": 63,
-        "y": 297,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IntentClassifier",
-        "x": 736,
-        "y": 290,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "task_planner py",
-        "x": 2112,
-        "y": 295,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ConversationManager",
-        "x": 746,
-        "y": 315,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logs",
-        "x": 2062,
-        "y": 322,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger",
-        "x": 2507,
-        "y": 320,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger:",
-        "x": 2623,
-        "y": 319,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Projects",
-        "x": 84,
-        "y": 345,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory",
-        "x": 2076,
-        "y": 351,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "10",
-        "x": 2398,
-        "y": 342,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger.info(\"Starting Omnix V4.. =",
-        "x": 2633,
-        "y": 343,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "because you re loading more Al objects than necessary:",
-        "x": 888,
-        "y": 373,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "~pycache",
-        "x": 2097,
-        "y": 377,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "11",
-        "x": 2398,
-        "y": 366,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 Apps",
-        "x": 58,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "12",
-        "x": 2397,
-        "y": 387,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Warnings.filterwarningse",
-        "x": 2590,
-        "y": 389,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "'ignore'",
-        "x": 2749,
-        "y": 388,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_memory py",
-        "x": 2131,
-        "y": 405,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "13",
-        "x": 2397,
-        "y": 411,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2497,
-        "y": 414,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "More",
-        "x": 73,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "For now;",
-        "x": 681,
-        "y": 426,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "apply the two fixes above and run:",
-        "x": 876,
-        "y": 429,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "behavior_store json",
-        "x": 2125,
-        "y": 432,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "14",
-        "x": 2397,
-        "y": 435,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers.logging set_verbosity_errore",
-        "x": 2710,
-        "y": 436,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory_manager py",
-        "x": 2130,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "15",
-        "x": 2397,
-        "y": 459,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "except Exception:",
-        "x": 2560,
-        "y": 460,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pinned",
-        "x": 49,
-        "y": 492,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Bash",
-        "x": 721,
-        "y": 495,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_pattern_memory py",
-        "x": 2136,
-        "y": 487,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "16",
-        "x": 2398,
-        "y": 483,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pass",
-        "x": 2538,
-        "y": 486,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ui_patterns json",
-        "x": 2112,
-        "y": 516,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "17",
-        "x": 2398,
-        "y": 507,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "try:",
-        "x": 2499,
-        "y": 510,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix",
-        "x": 81,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 694,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main",
-        "x": 744,
-        "y": 534,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills",
-        "x": 2062,
-        "y": 540,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "18",
-        "x": 2398,
-        "y": 531,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "19",
-        "x": 2398,
-        "y": 555,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Gtate",
-        "x": 2061,
-        "y": 568,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V3 vs V4",
-        "x": 115,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Then",
-        "x": 666,
-        "y": 589,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20",
-        "x": 2398,
-        "y": 579,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Context Manager",
-        "x": 2608,
-        "y": 580,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "say:",
-        "x": 709,
-        "y": 594,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "system",
-        "x": 2070,
-        "y": 597,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "21",
-        "x": 2398,
-        "y": 603,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Pin Memory Warning",
-        "x": 135,
-        "y": 628,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "temp",
-        "x": 2064,
-        "y": 625,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "22",
-        "x": 2398,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from context.context_manager import ContextManager",
-        "x": 2758,
-        "y": 627,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Hey Omnix",
-        "x": 706,
-        "y": 655,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "search",
-        "x": 778,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "for",
-        "x": 825,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "python",
-        "x": 871,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tutorials",
-        "x": 940,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chrome",
-        "x": 1039,
-        "y": 654,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "tests",
-        "x": 2062,
-        "y": 652,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "23",
-        "x": 2398,
-        "y": 651,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix Vision and Structure",
-        "x": 160,
-        "y": 672,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PROBLEMS",
-        "x": 2415,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTPUT",
-        "x": 2505,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DEBUG CONSOLE",
-        "x": 2614,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TERMINAL",
-        "x": 2727,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PORTS",
-        "x": 2811,
-        "y": 684,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python",
-        "x": 3573,
-        "y": 685,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Tv",
-        "x": 3625,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0 0",
-        "x": 3684,
-        "y": 682,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "DSA Questtions",
-        "x": 115,
-        "y": 715,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "and tell me whether the",
-        "x": 748,
-        "y": 711,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pin_memory",
-        "x": 912,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "spam disappears or becomes much smaller.",
-        "x": 1165,
-        "y": 712,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "users",
-        "x": 2064,
-        "y": 706,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "PS E: |Coding lomnix_V4>",
-        "x": 2479,
-        "y": 717,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "e:/Coding/Omnix_V4] .venv/Scripts/python.exe",
-        "x": 2799,
-        "y": 718,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "[Coding/omnix_VA/main.py",
-        "x": 3128,
-        "y": 718,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "utils",
-        "x": 2061,
-        "y": 733,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20t00:56:28.924478+0530",
-        "x": 2521,
-        "y": 742,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 742,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen Intelligence extracted 218 UI elements",
-        "x": 2953,
-        "y": 742,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "6 G q",
-        "x": 697,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3 \u20ac",
-        "x": 796,
-        "y": 757,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@ Sources",
-        "x": 933,
-        "y": 756,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision",
-        "x": 2064,
-        "y": 759,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:28.983223+0530",
-        "x": 2521,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Stored new UI pattern for main py",
-        "x": 2899,
-        "y": 766,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix_V4",
-        "x": 3108,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Visual Studio Code",
-        "x": 3255,
-        "y": 765,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Recents",
-        "x": 52,
-        "y": 783,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "voice",
-        "x": 2064,
-        "y": 789,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0: 192x640 (no",
-        "x": 2445,
-        "y": 810,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "detections) , 21.0ms",
-        "x": 2600,
-        "y": 807,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "env",
-        "x": 2062,
-        "y": 817,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 108,
-        "y": 826,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Do you like this personality?",
-        "x": 1048,
-        "y": 835,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Q",
-        "x": 1239,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Speed: 23.Sms preprocess, 21.Oms inference,",
-        "x": 2574,
-        "y": 831,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": ".Oms postprocess per image at shape (1, 3, 192, 640)",
-        "x": 3021,
-        "y": 832,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "launcher py",
-        "x": 2085,
-        "y": 844,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "[WakeListener] Processing audio.=",
-        "x": 2526,
-        "y": 852,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Portfolio Improvement Tips",
-        "x": 127,
-        "y": 871,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py",
-        "x": 2074,
-        "y": 873,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "[WakeListener ]",
-        "x": 2443,
-        "y": 876,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Heard:   omnix Wake",
-        "x": 2593,
-        "y": 874,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "skills zip",
-        "x": 2074,
-        "y": 900,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "wake",
-        "x": 2454,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "detected",
-        "x": 2562,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Resume Creation Assistance",
-        "x": 130,
-        "y": 915,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20t00:56:36.844559+0530",
-        "x": 2521,
-        "y": 919,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 919,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Wake word detected! Listening for command.",
-        "x": 2935,
-        "y": 918,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask anything",
-        "x": 763,
-        "y": 946,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20t00:56:38.123783+0530",
-        "x": 2521,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 940,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Vision detected",
-        "x": 2817,
-        "y": 939,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "objects and 211 text",
-        "x": 3001,
-        "y": 942,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "elements",
-        "x": 3135,
-        "y": 939,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OUTLINE",
-        "x": 2035,
-        "y": 952,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chirag Sharma",
-        "x": 116,
-        "y": 972,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "2026-06-20T00:56:38.124786+0530",
-        "x": 2521,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "INFO",
-        "x": 2706,
-        "y": 963,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Screen Intelligence extracted 211 UI elements",
-        "x": 2952,
-        "y": 964,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TIMELINE",
-        "x": 2037,
-        "y": 981,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 70,
-        "y": 993,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT can make mistakes. Check important info:",
-        "x": 1122,
-        "y": 997,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "88 main*+",
-        "x": 2007,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00 00",
-        "x": 2128,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ln 13, Col 9",
-        "x": 3076,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Spaces: 4",
-        "x": 3165,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "UTF-8",
-        "x": 3235,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "CRLF",
-        "x": 3291,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "{} Python",
-        "x": 3366,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8",
-        "x": 3430,
-        "y": 1006,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "3.11.9 (.venv)",
-        "x": 3504,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Python 3.14 (64-bit)",
-        "x": 3633,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go Live",
-        "x": 3768,
-        "y": 1008,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 1848,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ENG",
-        "x": 3535,
-        "y": 1042,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "00.56",
-        "x": 3768,
-        "y": 1041,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "@",
-        "x": 1887,
-        "y": 1051,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "c)) CW 78%",
-        "x": 3645,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 3807,
-        "y": 1050,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 1828,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "IN",
-        "x": 3535,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "20-06-2026",
-        "x": 3748,
-        "y": 1060,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Up",
-        "x": 2686,
-        "y": 874,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix",
-        "x": 2404,
-        "y": 897,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "word",
-        "x": 2497,
-        "y": 895,
-        "source": "ocr"
-      }
-    ],
-    [
-      {
-        "type": "text",
-        "text": "(146) Jaat Intro (Official Vide",
-        "x": 183,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4 Warning Fix",
-        "x": 462,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Ask Gemini",
-        "x": 1671,
-        "y": 27,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "File",
-        "x": 1987,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Edit",
-        "x": 2034,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Selection",
-        "x": 2098,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "View",
-        "x": 2167,
-        "y": 22,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Go",
-        "x": 2217,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Run",
-        "x": 2260,
-        "y": 24,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Omnix V4",
-        "x": 2868,
-        "y": 21,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "08 0 O 0",
-        "x": 3600,
-        "y": 19,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "EXPLORER",
-        "x": 2038,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main py M",
-        "x": 2434,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "context_manager pY",
-        "x": 2619,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "pattern",
-        "x": 2828,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "memory py M",
-        "x": 2914,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "conversation",
-        "x": 3084,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "manager.py M",
-        "x": 3190,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "vision_pipeline py",
-        "x": 3381,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "SCrpen",
-        "x": 3558,
-        "y": 67,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intellige",
-        "x": 3616,
-        "y": 69,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "D ~",
-        "x": 3675,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "8 @",
-        "x": 3765,
-        "y": 66,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "chatgptcom/c/6a358f8b-2dcc-83ee-a1f1-35ff795abced",
-        "x": 459,
-        "y": 82,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0",
-        "x": 1633,
-        "y": 79,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "7",
-        "x": 1672,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "0 |",
-        "x": 1753,
-        "y": 81,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "OMNIX_V4",
-        "x": 2041,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "main-py",
-        "x": 2431,
-        "y": 104,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Qmain",
-        "x": 2511,
-        "y": 103,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Core",
-        "x": 2059,
-        "y": 130,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "from utils",
-        "x": 2488,
-        "y": 126,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "logger import",
-        "x": 2609,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "setup_logger",
-        "x": 2740,
-        "y": 129,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "ChatGPT",
-        "x": 415,
-        "y": 142,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Share",
-        "x": 1809,
-        "y": 144,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 153,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "time",
-        "x": 2529,
-        "y": 150,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "goal_executorpy",
-        "x": 2116,
-        "y": 159,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Atter we KIII tne pin_memory spam,",
-        "x": 798,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "want tO audit:",
-        "x": 1030,
-        "y": 181,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "intent_",
-        "x": 2079,
-        "y": 184,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "classifier py",
-        "x": 2146,
-        "y": 183,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import",
-        "x": 2469,
-        "y": 177,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "transformers",
-        "x": 2566,
-        "y": 174,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "import warnings",
-        "x": 2512,
-        "y": 198,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "New chat",
-        "x": 90,
-        "y": 210,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "omnix_engine py",
-        "x": 2116,
-        "y": 213,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "BrainManager",
-        "x": 716,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "retry",
-        "x": 2071,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "managerpy",
-        "x": 2137,
-        "y": 240,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "Search chats",
-        "x": 102,
-        "y": 253,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "TaskPlanner",
-        "x": 715,
-        "y": 265,
-        "source": "ocr"
-      },
-      {
-        "type": "text",
-        "text": "target_resolver py",
         "x": 2119,
         "y": 265,
         "source": "ocr"
@@ -28660,6 +24188,4184 @@
         "text": "person",
         "x": 1065.8786926269531,
         "y": 656.9426879882812,
+        "source": "vision"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 928,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 1063,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "4",
+        "x": 1323,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "File",
+        "x": 1987,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Edit",
+        "x": 2034,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Selection",
+        "x": 2098,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Go",
+        "x": 2217,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Run",
+        "x": 2260,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Terminal",
+        "x": 2325,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Help",
+        "x": 2392,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 2596,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "08 0 O 0",
+        "x": 3601,
+        "y": 21,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Sessions",
+        "x": 45,
+        "y": 69,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "New",
+        "x": 211,
+        "y": 70,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Ctrl+N",
+        "x": 262,
+        "y": 69,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 516,
+        "y": 72,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "New Chat",
+        "x": 1315,
+        "y": 70,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 1423,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changes",
+        "x": 1528,
+        "y": 68,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Files",
+        "x": 1593,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "EXPLORER",
+        "x": 2038,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main-py",
+        "x": 2422,
+        "y": 68,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(D Chats",
+        "x": 51,
+        "y": 111,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 481,
+        "y": 103,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "CRun Code Review",
+        "x": 1695,
+        "y": 111,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OMNIX_V4",
+        "x": 2041,
+        "y": 103,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2429,
+        "y": 104,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(Jmain",
+        "x": 2508,
+        "y": 102,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "~pycache",
+        "x": 2089,
+        "y": 132,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "from utils.logger import setup_logger",
+        "x": 2617,
+        "y": 128,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Frontend",
+        "x": 45,
+        "y": 144,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Branch",
+        "x": 1524,
+        "y": 153,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changes",
+        "x": 1581,
+        "y": 156,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'venv",
+        "x": 2064,
+        "y": 159,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import time",
+        "x": 2491,
+        "y": 152,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "greeting",
+        "x": 90,
+        "y": 183,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import transformers",
+        "x": 2528,
+        "y": 176,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "3 hrs ago",
+        "x": 115,
+        "y": 205,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "can you see my Omnix_V4 Folder",
+        "x": 1303,
+        "y": 210,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "assets",
+        "x": 2065,
+        "y": 213,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import warnings",
+        "x": 2512,
+        "y": 198,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 51,
+        "y": 244,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "automation",
+        "x": 2085,
+        "y": 240,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "test comment",
+        "x": 2517,
+        "y": 246,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "config",
+        "x": 2067,
+        "y": 268,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "testing auto commit",
+        "x": 2549,
+        "y": 270,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 153,
+        "y": 282,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Created isolated worktree for branch agents/omnix-v4",
+        "x": 613,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "folder",
+        "x": 835,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "access",
+        "x": 888,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "context",
+        "x": 2071,
+        "y": 294,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "def main():",
+        "x": 2491,
+        "y": 294,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Working-",
+        "x": 91,
+        "y": 306,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 472,
+        "y": 327,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Gacsiang",
+        "x": 544,
+        "y": 328,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "core",
+        "x": 2059,
+        "y": 324,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logs",
+        "x": 2062,
+        "y": 352,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "10",
+        "x": 2398,
+        "y": 342,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger",
+        "x": 2504,
+        "y": 344,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "setup_logger",
+        "x": 2620,
+        "y": 344,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 546,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "11",
+        "x": 2395,
+        "y": 364,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger.info(\"Starting Omnix",
+        "x": 2606,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "memory",
+        "x": 2076,
+        "y": 381,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "12",
+        "x": 2397,
+        "y": 388,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 403,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ceccions",
+        "x": 544,
+        "y": 403,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "skills",
+        "x": 2062,
+        "y": 405,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "13",
+        "x": 2397,
+        "y": 412,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "warnings.filterwarningst",
+        "x": 2587,
+        "y": 412,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'ignore'",
+        "x": 2746,
+        "y": 414,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 441,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 544,
+        "y": 441,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "state",
+        "x": 2061,
+        "y": 432,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "14",
+        "x": 2397,
+        "y": 436,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "try:",
+        "x": 2497,
+        "y": 438,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "system",
+        "x": 2070,
+        "y": 463,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "15",
+        "x": 2397,
+        "y": 460,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "transformers.logging set_verbosity_error()",
+        "x": 2716,
+        "y": 460,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 478,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ceccion",
+        "x": 541,
+        "y": 478,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "16",
+        "x": 2397,
+        "y": 483,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "except Exception:",
+        "x": 2559,
+        "y": 484,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "temp",
+        "x": 2064,
+        "y": 492,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 517,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "session",
+        "x": 543,
+        "y": 517,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "tests",
+        "x": 2061,
+        "y": 516,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17",
+        "x": 2397,
+        "y": 507,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "pass",
+        "x": 2535,
+        "y": 510,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "18",
+        "x": 2397,
+        "y": 531,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "try:",
+        "x": 2497,
+        "y": 534,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 553,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 546,
+        "y": 553,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "19",
+        "x": 2397,
+        "y": 555,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changed files and other session artifacts will",
+        "x": 1696,
+        "y": 576,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "users",
+        "x": 2064,
+        "y": 571,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PROBLEMS",
+        "x": 2412,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTPUT",
+        "x": 2502,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "DEBUG CONSOLE",
+        "x": 2611,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TERMINAL",
+        "x": 2725,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PORTS",
+        "x": 2809,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3571,
+        "y": 588,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "+~ @ @",
+        "x": 3661,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "{3 X",
+        "x": 3796,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "appear here",
+        "x": 1693,
+        "y": 597,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "utils",
+        "x": 2061,
+        "y": 598,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "vision",
+        "x": 2067,
+        "y": 625,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "venv)",
+        "x": 2418,
+        "y": 633,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PS E: |Coding Omnix_V4>",
+        "x": 2550,
+        "y": 631,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Icoding IOmnix_V4| . venv| Scripts Ipython. exe e:/coding/omnix_VA/main.py",
+        "x": 3001,
+        "y": 630,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "voice",
+        "x": 2064,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:39.092660+0530",
+        "x": 2520,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Memory stored: Chirag watches python tutorials frequently",
+        "x": 3004,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "env",
+        "x": 2061,
+        "y": 681,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:39.131992+0530",
+        "x": 2520,
+        "y": 676,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 676,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Memory stored: chirag prefers chrome",
+        "x": 2909,
+        "y": 675,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "browser",
+        "x": 3112,
+        "y": 675,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:40.324659+0530",
+        "x": 2520,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Screen Observer",
+        "x": 2875,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "gitignore",
+        "x": 2082,
+        "y": 711,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026",
+        "x": 2398,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24T17:30:40",
+        "x": 2499,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "324659+0530",
+        "x": 2610,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Vision Manager",
+        "x": 2870,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "launcherpy",
+        "x": 2086,
+        "y": 738,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026",
+        "x": 2398,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24T17:30:40.326670+0530",
+        "x": 2554,
+        "y": 744,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Vision Pipeline",
+        "x": 2875,
+        "y": 741,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2074,
+        "y": 764,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:40.326670+0530",
+        "x": 2520,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Loading YOLO vision model",
+        "x": 2861,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "[4 READMEmd",
+        "x": 2079,
+        "y": 790,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:40.459863+0530",
+        "x": 2520,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OCR GPU available:",
+        "x": 2827,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "False",
+        "x": 2943,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Customizations",
+        "x": 70,
+        "y": 804,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026",
+        "x": 2398,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "07-24117:30.40.459863+0530",
+        "x": 2541,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing OCR Text Detector",
+        "x": 2884,
+        "y": 807,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Using CPU _",
+        "x": 2418,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Note:",
+        "x": 2499,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "This module is much faster with",
+        "x": 2673,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "GPU .",
+        "x": 2856,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Overview",
+        "x": 82,
+        "y": 843,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07",
+        "x": 2409,
+        "y": 853,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24T17:30:42.309261+0530",
+        "x": 2554,
+        "y": 852,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 853,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Screen Intelligence",
+        "x": 2893,
+        "y": 852,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Agents",
+        "x": 76,
+        "y": 880,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chat with Copilot",
+        "x": 499,
+        "y": 876,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:42.309261+0530",
+        "x": 2520,
+        "y": 876,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing UI Pattern Memory",
+        "x": 2884,
+        "y": 873,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:42.342175+0530",
+        "x": 2520,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Loaded UI patterns from disk",
+        "x": 2875,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Skills",
+        "x": 70,
+        "y": 915,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:42.342175+0530",
+        "x": 2520,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Starting Vision Manager",
+        "x": 2851,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Instructions",
+        "x": 90,
+        "y": 948,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Aqent",
+        "x": 508,
+        "y": 945,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "8 gemma4:12b",
+        "x": 594,
+        "y": 945,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:42.342175+0530",
+        "x": 2520,
+        "y": 942,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 940,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Starting screen observer",
+        "x": 2854,
+        "y": 939,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTLINE",
+        "x": 2035,
+        "y": 952,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:42.344653+0530",
+        "x": 2520,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Vision Manager loop started",
+        "x": 2869,
+        "y": 964,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Hooks",
+        "x": 75,
+        "y": 984,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Autopilot",
+        "x": 487,
+        "y": 988,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Allow",
+        "x": 574,
+        "y": 987,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TIMELINE",
+        "x": 2037,
+        "y": 981,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main \u20ac",
+        "x": 2026,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "004 0",
+        "x": 2113,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chirag (35 minutes ago)",
+        "x": 3076,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Ln 10, Col 28",
+        "x": 3219,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Spaces:",
+        "x": 3306,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "UTF-8",
+        "x": 3384,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "CRLF",
+        "x": 3439,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3526,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "8",
+        "x": 3580,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "venv (3.11.9)",
+        "x": 3654,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(c-)) Go Live",
+        "x": 3753,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "C",
+        "x": 3820,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.30",
+        "x": 1849,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ENG",
+        "x": 3535,
+        "y": 1042,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.30",
+        "x": 3769,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026 @",
+        "x": 1842,
+        "y": 1054,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "IN",
+        "x": 3535,
+        "y": 1060,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "7 0) CD 79%",
+        "x": 3631,
+        "y": 1051,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026",
+        "x": 3748,
+        "y": 1060,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 3807,
+        "y": 1050,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "View",
+        "x": 2167,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "V4:.",
+        "x": 2764,
+        "y": 364,
+        "source": "ocr"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 928,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 1063,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "4",
+        "x": 1323,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "File",
+        "x": 1987,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Edit",
+        "x": 2034,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Selection",
+        "x": 2098,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Go",
+        "x": 2217,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Run",
+        "x": 2260,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Terminal",
+        "x": 2325,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Help",
+        "x": 2392,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 2596,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "@8",
+        "x": 3550,
+        "y": 21,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0 O 0",
+        "x": 3619,
+        "y": 21,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Sessions",
+        "x": 45,
+        "y": 69,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "New",
+        "x": 211,
+        "y": 70,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Ctrl+N",
+        "x": 262,
+        "y": 69,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 516,
+        "y": 72,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "New Chat",
+        "x": 1315,
+        "y": 70,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 1423,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changes",
+        "x": 1528,
+        "y": 68,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Files",
+        "x": 1593,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "EXPLORER",
+        "x": 2038,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main-py",
+        "x": 2422,
+        "y": 68,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(D Chats",
+        "x": 51,
+        "y": 111,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 481,
+        "y": 103,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "CRun Code Review",
+        "x": 1695,
+        "y": 111,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OMNIX_V4",
+        "x": 2041,
+        "y": 103,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2429,
+        "y": 104,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(Jmain",
+        "x": 2508,
+        "y": 102,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "~pycache",
+        "x": 2089,
+        "y": 132,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "from utils.logger import setup_logger",
+        "x": 2617,
+        "y": 128,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Frontend",
+        "x": 45,
+        "y": 144,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Branch",
+        "x": 1524,
+        "y": 153,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changes",
+        "x": 1581,
+        "y": 156,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'venv",
+        "x": 2064,
+        "y": 159,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import time",
+        "x": 2491,
+        "y": 152,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "greeting",
+        "x": 90,
+        "y": 183,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import transformers",
+        "x": 2528,
+        "y": 176,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "3 hrs ago",
+        "x": 115,
+        "y": 205,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "can you see my Omnix_V4 Folder",
+        "x": 1303,
+        "y": 210,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "assets",
+        "x": 2065,
+        "y": 213,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "import warnings",
+        "x": 2512,
+        "y": 198,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 49,
+        "y": 244,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "automation",
+        "x": 2085,
+        "y": 240,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "test comment",
+        "x": 2517,
+        "y": 246,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "config",
+        "x": 2067,
+        "y": 268,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "testing auto commit",
+        "x": 2549,
+        "y": 270,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4 folder visibility",
+        "x": 153,
+        "y": 282,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Created isolated worktree for branch agents/omnix-v4",
+        "x": 613,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "folder",
+        "x": 835,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "access",
+        "x": 888,
+        "y": 285,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "context",
+        "x": 2071,
+        "y": 294,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "def main():",
+        "x": 2491,
+        "y": 294,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Working-",
+        "x": 91,
+        "y": 306,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 472,
+        "y": 327,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Gacsiang",
+        "x": 544,
+        "y": 328,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "core",
+        "x": 2059,
+        "y": 324,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logs",
+        "x": 2062,
+        "y": 352,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "10",
+        "x": 2398,
+        "y": 342,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger",
+        "x": 2504,
+        "y": 344,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "setup_logger",
+        "x": 2620,
+        "y": 344,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 546,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "11",
+        "x": 2395,
+        "y": 364,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger.info(\"Starting Omnix",
+        "x": 2606,
+        "y": 367,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "memory",
+        "x": 2076,
+        "y": 381,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "12",
+        "x": 2397,
+        "y": 388,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 403,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ceccions",
+        "x": 544,
+        "y": 403,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "skills",
+        "x": 2062,
+        "y": 405,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "13",
+        "x": 2397,
+        "y": 412,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "warnings.filterwarningst",
+        "x": 2587,
+        "y": 412,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'ignore'",
+        "x": 2746,
+        "y": 414,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 441,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 544,
+        "y": 441,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "state",
+        "x": 2061,
+        "y": 432,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "14",
+        "x": 2397,
+        "y": 436,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "try:",
+        "x": 2497,
+        "y": 438,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "system",
+        "x": 2070,
+        "y": 463,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "15",
+        "x": 2397,
+        "y": 460,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "transformers.logging-set_verbosity_",
+        "x": 2680,
+        "y": 460,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "error",
+        "x": 2875,
+        "y": 459,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 478,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ceccion",
+        "x": 541,
+        "y": 478,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "16",
+        "x": 2397,
+        "y": 483,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "except Exception:",
+        "x": 2559,
+        "y": 484,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "temp",
+        "x": 2064,
+        "y": 492,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 517,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "session",
+        "x": 543,
+        "y": 517,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "tests",
+        "x": 2061,
+        "y": 516,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17",
+        "x": 2397,
+        "y": 507,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "pass",
+        "x": 2535,
+        "y": 510,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "18",
+        "x": 2397,
+        "y": 531,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "try:",
+        "x": 2497,
+        "y": 534,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Checked",
+        "x": 474,
+        "y": 553,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sessions",
+        "x": 546,
+        "y": 553,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "19",
+        "x": 2397,
+        "y": 555,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Changed files and other session artifacts will",
+        "x": 1696,
+        "y": 576,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "users",
+        "x": 2064,
+        "y": 571,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PROBLEMS",
+        "x": 2412,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTPUT",
+        "x": 2502,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "DEBUG CONSOLE",
+        "x": 2611,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TERMINAL",
+        "x": 2725,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PORTS",
+        "x": 2809,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3571,
+        "y": 588,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "+~ @ @",
+        "x": 3661,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "{3 X",
+        "x": 3796,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "appear here",
+        "x": 1693,
+        "y": 597,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "utils",
+        "x": 2061,
+        "y": 598,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "vision",
+        "x": 2067,
+        "y": 625,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "venv)",
+        "x": 2418,
+        "y": 633,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PS E: |Coding Omnix_V4>",
+        "x": 2550,
+        "y": 631,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Icoding lOmnix_V4| . venv  ScriptsIpython.exe e:/Coding/omnix_VA/main.py",
+        "x": 3001,
+        "y": 630,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "voice",
+        "x": 2064,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:44.758712+0530",
+        "x": 2520,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Conversation Manager",
+        "x": 2897,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "env",
+        "x": 2061,
+        "y": 681,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:44.758712+0530",
+        "x": 2520,
+        "y": 678,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 676,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Memory Manager",
+        "x": 2870,
+        "y": 675,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30.44.758712+0530",
+        "x": 2520,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Goal",
+        "x": 2824,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Executor",
+        "x": 2947,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "gitignore",
+        "x": 2082,
+        "y": 711,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07",
+        "x": 2409,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24T17:30:44.760872+0530",
+        "x": 2554,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Environment State",
+        "x": 2884,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "launcherpy",
+        "x": 2086,
+        "y": 738,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:44.760872+0530",
+        "x": 2520,
+        "y": 744,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Behavior Memory",
+        "x": 2875,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2074,
+        "y": 764,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30.44.761883+0530",
+        "x": 2520,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Element Locator",
+        "x": 2875,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "[4 READMEmd",
+        "x": 2079,
+        "y": 790,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24T17:30:44.761883+0530",
+        "x": 2520,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Initializing Automation Engine",
+        "x": 2884,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Customizations",
+        "x": 70,
+        "y": 804,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30.44.761883+0530",
+        "x": 2520,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Agent controller initialized",
+        "x": 2874,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "pygame 2.6.1 (SDL 2.28.4,",
+        "x": 2487,
+        "y": 832,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 2641,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "11.9)",
+        "x": 2715,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Overview",
+        "x": 82,
+        "y": 843,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Hello from the pygame community _",
+        "x": 2518,
+        "y": 853,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "https: / /Ww. pygame.org/contribute.html",
+        "x": 2847,
+        "y": 852,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Agents",
+        "x": 76,
+        "y": 880,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chat with Copilot",
+        "x": 499,
+        "y": 876,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026",
+        "x": 2398,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "07-24117:30.49",
+        "x": 2487,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "585384+0530",
+        "x": 2607,
+        "y": 873,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "VoiceManager starting:",
+        "x": 2845,
+        "y": 873,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Wake listener started.",
+        "x": 2476,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Skills",
+        "x": 70,
+        "y": 915,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:50.874008+0530",
+        "x": 2518,
+        "y": 919,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix is Waiting for wake word:",
+        "x": 2886,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Hey Omnix",
+        "x": 3085,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Instructions",
+        "x": 90,
+        "y": 948,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Aqent",
+        "x": 508,
+        "y": 945,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "8 gemma4:12b",
+        "x": 594,
+        "y": 945,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "[Omnix] sleeping",
+        "x": 2452,
+        "y": 940,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Say",
+        "x": 2572,
+        "y": 942,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Hey Omnix",
+        "x": 2644,
+        "y": 942,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "to wake me up",
+        "x": 2763,
+        "y": 942,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTLINE",
+        "x": 2035,
+        "y": 952,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "2026-07-24117:30:50.874008+0530",
+        "x": 2520,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "INFO",
+        "x": 2704,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Voice system started",
+        "x": 2838,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Hooks",
+        "x": 75,
+        "y": 984,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Autopilot",
+        "x": 487,
+        "y": 988,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Allow",
+        "x": 574,
+        "y": 987,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TIMELINE",
+        "x": 2037,
+        "y": 981,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main \u20ac",
+        "x": 2026,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "00^0",
+        "x": 2115,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "1 file and",
+        "x": 2221,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "cells to analyze",
+        "x": 2317,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chirag (35 minutes ago)",
+        "x": 3078,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Ln 10, Col 28",
+        "x": 3219,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Spaces:",
+        "x": 3306,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "UTF-8",
+        "x": 3384,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "CRLF",
+        "x": 3439,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3526,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "8",
+        "x": 3580,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "venv (3.11.9)",
+        "x": 3654,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(c-)) Go Live",
+        "x": 3753,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "C",
+        "x": 3820,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.30",
+        "x": 1849,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ENG",
+        "x": 3535,
+        "y": 1042,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.30",
+        "x": 3769,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026 @",
+        "x": 1842,
+        "y": 1054,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "IN",
+        "x": 3535,
+        "y": 1060,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "7 0) CD 79%",
+        "x": 3631,
+        "y": 1051,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026",
+        "x": 3748,
+        "y": 1060,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 3807,
+        "y": 1050,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "View",
+        "x": 2167,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "V4:.",
+        "x": 2764,
+        "y": 364,
+        "source": "ocr"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "File",
+        "x": 1987,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Edit",
+        "x": 2034,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Selection",
+        "x": 2098,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "View",
+        "x": 2169,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Go",
+        "x": 2217,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Run",
+        "x": 2260,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Terminal",
+        "x": 2325,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Help",
+        "x": 2392,
+        "y": 24,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Omnix_V4",
+        "x": 2596,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "08",
+        "x": 3552,
+        "y": 22,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 3649,
+        "y": 21,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "EXPLORER",
+        "x": 2038,
+        "y": 67,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main-py",
+        "x": 2422,
+        "y": 68,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "This",
+        "x": 36,
+        "y": 81,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PC",
+        "x": 63,
+        "y": 81,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Discord",
+        "x": 141,
+        "y": 81,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OMNIX_V4",
+        "x": 2041,
+        "y": 103,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2429,
+        "y": 104,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(J main",
+        "x": 2506,
+        "y": 102,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "~pycache",
+        "x": 2089,
+        "y": 132,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "def main",
+        "x": 2476,
+        "y": 126,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "~venv",
+        "x": 2062,
+        "y": 159,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "72",
+        "x": 2397,
+        "y": 163,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "time.sleep(1)",
+        "x": 2598,
+        "y": 163,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "73",
+        "x": 2398,
+        "y": 187,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Control Panel",
+        "x": 46,
+        "y": 204,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Fusion",
+        "x": 141,
+        "y": 203,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Rockstar",
+        "x": 238,
+        "y": 204,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Cursor",
+        "x": 334,
+        "y": 204,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Wew",
+        "x": 1734,
+        "y": 202,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "older",
+        "x": 1776,
+        "y": 204,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "assets",
+        "x": 2065,
+        "y": 213,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "74",
+        "x": 2398,
+        "y": 210,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "voice.speak( \"Hello Chirag. Omnix is nOw online",
+        "x": 2757,
+        "y": 211,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Games",
+        "x": 229,
+        "y": 222,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "automation",
+        "x": 2085,
+        "y": 240,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "75",
+        "x": 2397,
+        "y": 234,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "76",
+        "x": 2398,
+        "y": 258,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger",
+        "x": 2543,
+        "y": 260,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "info(\"Voice system started\"",
+        "x": 2710,
+        "y": 258,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "config",
+        "x": 2067,
+        "y": 268,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "77",
+        "x": 2398,
+        "y": 280,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "context",
+        "x": 2071,
+        "y": 294,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "78",
+        "x": 2398,
+        "y": 306,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Keep",
+        "x": 2554,
+        "y": 306,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "program alive",
+        "x": 2647,
+        "y": 307,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Recycle Bin",
+        "x": 49,
+        "y": 327,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "BGMI",
+        "x": 144,
+        "y": 325,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "JDownloader",
+        "x": 237,
+        "y": 324,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Grand Theft",
+        "x": 334,
+        "y": 325,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ollama",
+        "x": 1469,
+        "y": 324,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "core",
+        "x": 2059,
+        "y": 324,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "79",
+        "x": 2398,
+        "y": 330,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "while",
+        "x": 2539,
+        "y": 330,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "True:",
+        "x": 2598,
+        "y": 330,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Auto",
+        "x": 310,
+        "y": 345,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "En_",
+        "x": 357,
+        "y": 346,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "launch;",
+        "x": 1468,
+        "y": 345,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logs",
+        "x": 2062,
+        "y": 352,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "80",
+        "x": 2397,
+        "y": 351,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "time",
+        "x": 2574,
+        "y": 352,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "sleep(1)",
+        "x": 2639,
+        "y": 352,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "4",
+        "x": 1950,
+        "y": 373,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "memory",
+        "x": 2074,
+        "y": 379,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "81",
+        "x": 2395,
+        "y": 376,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "skills",
+        "x": 2062,
+        "y": 405,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "82",
+        "x": 2397,
+        "y": 402,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "except Exception",
+        "x": 2554,
+        "y": 400,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "e:",
+        "x": 2680,
+        "y": 400,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "83",
+        "x": 2397,
+        "y": 424,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "state",
+        "x": 2061,
+        "y": 432,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Gooale",
+        "x": 46,
+        "y": 447,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Steam",
+        "x": 144,
+        "y": 448,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "imades ipq",
+        "x": 1756,
+        "y": 447,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "84",
+        "x": 2397,
+        "y": 447,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "logger.exception(f\"Fatal error:",
+        "x": 2663,
+        "y": 449,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chrome",
+        "x": 46,
+        "y": 468,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "system",
+        "x": 2070,
+        "y": 463,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "85",
+        "x": 2397,
+        "y": 471,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "temp",
+        "x": 2064,
+        "y": 492,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "86",
+        "x": 2397,
+        "y": 496,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "EPIC",
+        "x": 142,
+        "y": 514,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "tests",
+        "x": 2061,
+        "y": 516,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "87",
+        "x": 2395,
+        "y": 519,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "name",
+        "x": 2503,
+        "y": 519,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main",
+        "x": 2632,
+        "y": 519,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "GAMES",
+        "x": 141,
+        "y": 535,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "88",
+        "x": 2397,
+        "y": 543,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main( )",
+        "x": 2505,
+        "y": 543,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Epic Games",
+        "x": 142,
+        "y": 570,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "YouTube",
+        "x": 235,
+        "y": 570,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "users",
+        "x": 2064,
+        "y": 571,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Launcher",
+        "x": 141,
+        "y": 588,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PROBLEMS",
+        "x": 2412,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTPUT",
+        "x": 2502,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "DEBUG CONSOLE",
+        "x": 2611,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TERMINAL",
+        "x": 2725,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "PORTS",
+        "x": 2809,
+        "y": 586,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3573,
+        "y": 588,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "+~ @ @ - |{ *",
+        "x": 3715,
+        "y": 587,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "utils",
+        "x": 2061,
+        "y": 598,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "vision",
+        "x": 2067,
+        "y": 625,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super() -",
+        "x": 2430,
+        "y": 634,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 633,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2577,
+        "y": 633,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "voice",
+        "x": 2064,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Icodinglomnix_V4| .venv Liblsite-packagesItorchlutilsldataldataloader.py:775: Userllarning:",
+        "x": 2796,
+        "y": 654,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'pin_memory' argument is set as true but no accelerator is found,",
+        "x": 3502,
+        "y": 655,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "env",
+        "x": 2061,
+        "y": 681,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "en device pinned memory won",
+        "x": 2502,
+        "y": 676,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "be used",
+        "x": 2682,
+        "y": 676,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "NVIDIA App",
+        "x": 48,
+        "y": 693,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Visual Studio",
+        "x": 144,
+        "y": 691,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "WhatsApp",
+        "x": 237,
+        "y": 693,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super",
+        "x": 2419,
+        "y": 700,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2574,
+        "y": 699,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Code",
+        "x": 142,
+        "y": 712,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Web",
+        "x": 237,
+        "y": 712,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "gitignore",
+        "x": 2082,
+        "y": 711,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "E: Icoding lOmnix_V4| .venv Liblsite-packagesItorchlutilsIdataldataloader.py:775: Userlarning:",
+        "x": 2790,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'pin_memory' argument is set as",
+        "x": 3349,
+        "y": 721,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "true but no accelerator is found_",
+        "x": 3640,
+        "y": 720,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "launcherpy",
+        "x": 2086,
+        "y": 738,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "en",
+        "x": 2386,
+        "y": 741,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "device pinned memory won'",
+        "x": 2515,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "be used",
+        "x": 2682,
+        "y": 742,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "main py",
+        "x": 2074,
+        "y": 764,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super()",
+        "x": 2428,
+        "y": 763,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2577,
+        "y": 765,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "[4 READMEmd",
+        "x": 2079,
+        "y": 790,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Icoding Omnix_V4| .venv Liblsite-packages torchlutilsldataldataloader.py:775: Userwarning:",
+        "x": 2798,
+        "y": 786,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'pin_memory' argument is set as true but no accelerator is found,",
+        "x": 3503,
+        "y": 787,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Revo",
+        "x": 48,
+        "y": 814,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "MuMuPlayer",
+        "x": 144,
+        "y": 814,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "aBittorrent",
+        "x": 237,
+        "y": 813,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "AlI",
+        "x": 331,
+        "y": 813,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "en device pinned memory won",
+        "x": 2500,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "be used",
+        "x": 2682,
+        "y": 808,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "temp_30f8a92d7fa04bf785d10916e9ab9.",
+        "x": 2190,
+        "y": 818,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Uninstaller",
+        "x": 46,
+        "y": 834,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super (",
+        "x": 2421,
+        "y": 832,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2577,
+        "y": 831,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "E: Icoding lOmnix_V4| .venv Liblsite-packagesItorchlutilsIdataldataloader.py:775: Userlarning:",
+        "x": 2788,
+        "y": 852,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'pin_memory' argument is set as true but no accelerator is found",
+        "x": 3499,
+        "y": 853,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "en",
+        "x": 2386,
+        "y": 873,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "device pinned memory won",
+        "x": 2514,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "be used",
+        "x": 2682,
+        "y": 874,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super() =",
+        "x": 2430,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2577,
+        "y": 897,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Icoding lOmnix_V4| .venvlLiblsite-packages torchlutilsIdataldataloader.py:775: Userlarning:",
+        "x": 2798,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "'pin_memory' argument is set",
+        "x": 3337,
+        "y": 919,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "true but no",
+        "x": 3544,
+        "y": 918,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "accelerator is found,",
+        "x": 3698,
+        "y": 919,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "en device pinned memory won",
+        "x": 2502,
+        "y": 940,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "be used",
+        "x": 2682,
+        "y": 940,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "OUTLINE",
+        "x": 2035,
+        "y": 952,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "super() =",
+        "x": 2430,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "init",
+        "x": 2506,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(loader)",
+        "x": 2577,
+        "y": 963,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "TIMELINE",
+        "x": 2037,
+        "y": 981,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "88 maint \u20ac",
+        "x": 2019,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "00A0",
+        "x": 2119,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Chirag (42 minutes ago)",
+        "x": 3087,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Ln 12, Col 1",
+        "x": 3223,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Spaces:",
+        "x": 3306,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "UTF-8",
+        "x": 3384,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "CRLF",
+        "x": 3439,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "Python",
+        "x": 3526,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "8",
+        "x": 3580,
+        "y": 1006,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "venv (3.11.9)",
+        "x": 3654,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "(c-)) Go Live",
+        "x": 3753,
+        "y": 1008,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.38",
+        "x": 1849,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "ENG",
+        "x": 3534,
+        "y": 1042,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "17.38",
+        "x": 3769,
+        "y": 1041,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026 @",
+        "x": 1842,
+        "y": 1054,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 3075,
+        "y": 1051,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "IN",
+        "x": 3535,
+        "y": 1062,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "C w) @79%",
+        "x": 3628,
+        "y": 1051,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "24-07-2026",
+        "x": 3748,
+        "y": 1060,
+        "source": "ocr"
+      },
+      {
+        "type": "text",
+        "text": "0",
+        "x": 3807,
+        "y": 1050,
+        "source": "ocr"
+      },
+      {
+        "type": "person",
+        "text": "person",
+        "x": 849.8189086914062,
+        "y": 750.8219451904297,
+        "source": "vision"
+      },
+      {
+        "type": "person",
+        "text": "person",
+        "x": 1141.9732971191406,
+        "y": 753.610107421875,
+        "source": "vision"
+      },
+      {
+        "type": "tv",
+        "text": "tv",
+        "x": 2880.61376953125,
+        "y": 532.9324951171875,
         "source": "vision"
       }
     ]
