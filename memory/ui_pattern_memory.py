@@ -62,31 +62,38 @@ class UIPatternMemory:
         if app_name not in self.patterns:
             self.patterns[app_name] = []
 
+        #  FIX: Only extract and store essential data to keep the JSON small
+        simplified_elements = [
+            {
+                "type": str(item.get("type", "")),
+                "text": str(item.get("text", ""))[:50],
+                "x": item.get("x"),
+                "y": item.get("y")
+            }
+            for item in ui_elements if item.get("text")
+        ]
+
         current_signature = sorted([
-            (
-                str(item.get("type", "")),
-                str(item.get("text", ""))[:50]
-            )
-            for item in ui_elements
+            (e["type"], e["text"])
+            for e in simplified_elements
         ])
 
         for existing in self.patterns[app_name]:
 
             existing_signature = sorted([
-                (
-                    str(item.get("type", "")),
-                    str(item.get("text", ""))[:50]
-                )
-                for item in existing
+                (str(e.get("type", "")), str(e.get("text", ""))[:50])
+                for e in existing
             ])
 
             if existing_signature == current_signature:
                 return
 
-        self.patterns[app_name].append(ui_elements)
+        # Append the new simplified pattern
+        self.patterns[app_name].append(simplified_elements)
 
+        #  FIX: Keep only the last 10 patterns instead of 20
         self.patterns[app_name] = (
-            self.patterns[app_name][-20:]
+            self.patterns[app_name][-10:]
         )
 
         self._save()

@@ -97,6 +97,11 @@ class TaskPlanner:
         if skill in {"wait_for", "wait_until"}:
             skill = "wait_for_ui"
 
+        # 🔥 FIX: Prevent trying to kill websites as OS processes
+        if skill == "close_app" and str(parameters.get("app", "")).lower() in ["youtube", "google", "gmail", "facebook", "twitter", "whatsapp", "instagram"]:
+            skill = "browser_action"
+            parameters = {"action": "close_tab"}
+
         if skill not in self.allowed_skills:
             logger.warning(f"Invalid skill generated: {skill}")
             return None
@@ -125,87 +130,91 @@ class TaskPlanner:
 
         system_context = None
         vision_context = None
-        ui_elements = None
-        known_patterns = None
+        ui_elements = []
+        known_patterns = []
 
         if context:
             system_context = context.get("system")
-            vision_context = context.get("screen_summary") or context.get("vision")
-            ui_elements = (context.get("ui_elements") or [])[:30]
-            known_patterns = (context.get("known_patterns") or [])[-5:]
+            vision_context = context.get(
+                "screen_summary") or context.get("vision")
+
+            # 🔥 FIX: UI Elements ko compress kar rahe hain taaki tokens bach sakein
+            raw_ui = (context.get("ui_elements") or [])[:30]
+            ui_elements = [{"text": e.get("text"), "type": e.get(
+                "type")} for e in raw_ui if e.get("text")]
+
+            # 🔥 FIX: Patterns ko 5 se kam karke 3 kar diya aur unnecessary data hata diya
+            raw_patterns = (context.get("known_patterns") or [])[-3:]
+            for pattern in raw_patterns:
+                compressed_pattern = [{"text": e.get("text"), "type": e.get(
+                    "type")} for e in pattern if e.get("text")]
+                known_patterns.append(compressed_pattern)
 
         prompt = f"""
-            You are the planning brain of an AI desktop assistant called Omnix.
+                You are the planning brain of an AI desktop assistant called Omnix.
 
-            Convert the user command into a sequence of executable actions.
+                Convert the user command into a sequence of executable actions.
 
-            System context:
-            {system_context}
+                System context:
+                {system_context}
 
-            Vision context:
-            {vision_context}
+                Vision context:
+                {vision_context}
 
-            Visible UI elements:
-            {ui_elements}
+                Visible UI elements:
+                {json.dumps(ui_elements)}
 
-            Known UI patterns:
-            {known_patterns}
+                Known UI patterns:
+                {json.dumps(known_patterns)}
 
-            Available skills loaded from the skills system:
-            {self._available_skills_text()}
+                Available skills loaded from the skills system:
+                {self._available_skills_text()}
 
-            Legacy skill reminders:
+                Legacy skill reminders:
 
-            open_app(app) → opens any installed desktop application
+                open_app(app) → opens any installed desktop application
+                close_app(app) → closes a running application
+                type_text(text) → types text into the active input field
+                press_key(key) → presses a keyboard key
+                click_ui(text) → clicks a UI element containing specific text
+                click_mouse(x, y) → clicks at screen coordinates
+                double_click(x, y) → double clicks at coordinates
+                right_click(x, y) → right clicks at coordinates
+                drag_mouse(x1, y1, x2, y2) → drags mouse between coordinates
+                hotkey(keys) → presses a keyboard shortcut (example: ctrl+c)
+                scroll_page(direction) → scrolls up or down
 
-            close_app(app) → closes a running application
+                IMPORTANT:
+                Use the existing skills loaded from the skills system.
+                Return multiple steps for multi-part commands.
+                Prefer ui_control or click_ui with visible text over mouse coordinates.
+                Do not guess coordinates unless necessary.
+                For browser search, prefer browser_action with action="search" and query.
+                For browser navigation, use browser_action instead of raw typing when possible.
+                For app-level closing, use close_app. For closing the active window or tab, use window_control or browser_action.
+                For app UI workflows, open the app, wait_for_ui when useful, then use ui_control/click_ui/type_text/press_key.
+                For play, pause, volume, mute, next, or previous media commands, use media_control.  
+                If the user wants to close a website (e.g., "youtube"), use browser_action with action="close_tab", do NOT use close_app.
+                For browser search, ALWAYS use browser_action with action="search" and the query parameter. Do NOT use hotkeys (Ctrl+L) for searching.
+                For browser navigation, use browser_action instead of raw typing when possible.
+                Use the existing skills loaded from the skills system.
+                Prefer ui_control or click_ui with visible text over mouse coordinates. Do not guess coordinates.
 
-            type_text(text) → types text into the active input field
+                Rules:
+                Return ONLY JSON list.
+                Do not explain anything.
+                Always include required parameters for each skill.
 
-            press_key(key) → presses a keyboard key
+                Example:
+                [
+                {{"skill":"open_app","parameters":{{"app":"chrome"}}}}
+                ]
 
-            click_ui(text) → clicks a UI element containing specific text
-
-            click_mouse(x, y) → clicks at screen coordinates
-
-            double_click(x, y) → double clicks at coordinates
-
-            right_click(x, y) → right clicks at coordinates
-
-            drag_mouse(x1, y1, x2, y2) → drags mouse between coordinates
-
-            hotkey(keys) → presses a keyboard shortcut (example: ctrl+c)
-
-            scroll_page(direction) → scrolls up or down
-
-            IMPORTANT:
-            Use the existing skills loaded from the skills system.
-            Return multiple steps for multi-part commands.
-            Prefer ui_control or click_ui with visible text over mouse coordinates.
-            Do not guess coordinates unless necessary.
-            For browser search, prefer browser_action with action="search" and query.
-            For browser navigation, use browser_action instead of raw typing when possible.
-            For app-level closing, use close_app. For closing the active window or tab, use window_control or browser_action.
-            For app UI workflows, open the app, wait_for_ui when useful, then use ui_control/click_ui/type_text/press_key.
-            For play, pause, volume, mute, next, or previous media commands, use media_control.
-
-            Rules:
-            Return ONLY JSON list.
-            Do not explain anything.
-            Always include required parameters for each skill.
-
-
-            Example:
-            [
-            {{"skill":"open_app","parameters":{{"app":"chrome"}}}}
-            ]
-
-            User command:
-            {command}
-            """
+                User command:
+                {command}
+                """
 
         try:
-
             response = self.brain.ask(prompt)
             logger.debug(f"AI planner response: {response}")
 
@@ -226,7 +235,6 @@ class TaskPlanner:
                 return self.command_processor.create_simple_plan(command)
 
             json_text = response[start:end + 1]
-
             plan = json.loads(json_text)
 
             if not isinstance(plan, list):
@@ -235,7 +243,6 @@ class TaskPlanner:
             return self._normalize_plan(plan)
 
         except Exception as e:
-
             logger.error(f"Task planning failed: {e}")
             return self.command_processor.create_simple_plan(command)
     # ------------------------------------------------
